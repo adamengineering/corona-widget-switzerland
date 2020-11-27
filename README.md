@@ -15,7 +15,7 @@ Widget zeigt die Inzidenz, tägl. neue Fälle, sowie den Verlauf für eine besti
 # Installation
 
 **Manuell**
-* Safari öffnen: https://github.com/adamengineering/corona-widget-switzerland/master/swiss_incidence.js
+* Safari öffnen: https://raw.githubusercontent.com/adamengineering/corona-widget-switzerland/main/swiss_incidence.js
 * Skripttext kopieren
 * Scriptable öffnen, kopierten Skripttext als neues Scriptablescript einfügen oder altes erstzen.
 
