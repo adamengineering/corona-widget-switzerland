@@ -3,7 +3,7 @@ COVID-19 Inzidenz-Widget für die Schweiz (Kanton + Bezirke + Trend + Graph)
 
 Widget zeigt die Inzidenz, tägl. neue Fälle, sowie den Verlauf für eine bestimmte Anzahl Tage an.
 
-![IMG_3006](https://raw.githubusercontent.com/adamengineering/corona-widget-switzerland/screenshot.jpg?raw=true)
+![IMG_3006](https://github.com/adamengineering/corona-widget-switzerland/screenshot.jpg?raw=true)
 
 # Features
 
@@ -15,7 +15,7 @@ Widget zeigt die Inzidenz, tägl. neue Fälle, sowie den Verlauf für eine besti
 # Installation
 
 **Manuell**
-* Safari öffnen: https://raw.githubusercontent.com/adamengineering/corona-widget-switzerland/master/swiss_incidence.js
+* Safari öffnen: https://github.com/adamengineering/corona-widget-switzerland/master/swiss_incidence.js
 * Skripttext kopieren
 * Scriptable öffnen, kopierten Skripttext als neues Scriptablescript einfügen oder altes erstzen.
 
@@ -23,7 +23,7 @@ Widget zeigt die Inzidenz, tägl. neue Fälle, sowie den Verlauf für eine besti
 
 * Die allgemeine Konfiguration erfolgt mittels **WidgetParameter**:
 
-![IMG_3006](https://raw.githubusercontent.com/adamengineering/corona-widget-switzerland/widgetparameter.jpg?raw=true)
+![IMG_3006](https://github.com/adamengineering/corona-widget-switzerland/widgetparameter.jpg?raw=true)
 
 ## Parameter für Kanton und Bezirke
 
