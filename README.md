@@ -8,8 +8,9 @@ Widget zeigt die Inzidenz, tägl. neue Fälle, sowie den Verlauf für eine besti
 # Features
 
 * _Inzidenz_ + Trend für Kanton und Bezirk
-* _Neue tägl. Fälle_ für Stadt/Kreis, Bundesland, Bund
+* Im Bezirk wird die _Inzidenz_ und Einwohnerzahl ausgegeben
 * Diagram für _Neue tägl. Fälle_ je Kanton
+* wird kein Parameter für den Bezirk mitgegeben, erscheinen Summen für Spital, Intensivstation, Ventilator und Todesfälle
 * ...
 
 # Installation
