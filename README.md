@@ -1,7 +1,7 @@
 # Corona Inzidenz Widget für iOS (Scriptable)
 COVID-19 Inzidenz-Widget für die Schweiz (Kanton + Bezirke + Trend + Graph)
 
-Widget zeigt die Inzidenz, tägl. neue Fälle, sowie den Verlauf für eine bestimmte Anzahl Tage an.
+Widget zeigt die Inzidenz, Summen der Tageswerte, sowie den Verlauf für eine bestimmte Anzahl Tage an.
 
 ![IMG_3006](https://github.com/adamengineering/corona-widget-switzerland/blob/main/screenshot.jpg?raw=true)
 
