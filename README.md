@@ -29,6 +29,8 @@ Widget zeigt die Inzidenz, tägl. neue Fälle, sowie den Verlauf für eine besti
 ## Parameter für Kanton und Bezirke
 
 Das Widget erkennt den Kanton anhand der offiziellen Abkürzung für den Kantonsnamen: Aargau = AG, Thurgau = TG, Zürich = ZH, usw.
+Das Widget erlaubt auch die Ausgabe der Werte für das Fürstentum Liechtenstein mit der Abürzung FL
+=> Das Fürstentum Liechtenstein ist ein eigenständiges Land und nicht ein Kanton der Schweiz
 
 In einigen Kantonen sind auch Informationen zu den einzelnen Bezirken verfügbar
 
