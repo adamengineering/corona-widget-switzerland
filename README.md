@@ -3,7 +3,7 @@ COVID-19 Inzidenz-Widget für die Schweiz (Kanton + Bezirke + Trend + Graph)
 
 Widget zeigt die Inzidenz, tägl. neue Fälle, sowie den Verlauf für eine bestimmte Anzahl Tage an.
 
-![IMG_5438](https://raw.githubusercontent.com/adamengineering/corona-widget-switzerland/master/screenshots/screenshot.jpg)
+![IMG_5438](https://raw.githubusercontent.com/adamengineering/corona-widget-switzerland/master/screenshot.jpg)
 
 # Features
 
@@ -23,7 +23,7 @@ Widget zeigt die Inzidenz, tägl. neue Fälle, sowie den Verlauf für eine besti
 
 * Die allgemeine Konfiguration erfolgt mittels **WidgetParameter**:
 
-![IMG_5438](https://raw.githubusercontent.com/adamengineering/corona-widget-switzerland/master/screenshots/widgetparameter.jpg)
+![IMG_5438](https://raw.githubusercontent.com/adamengineering/corona-widget-switzerland/master/widgetparameter.jpg)
 
 ## Parameter für Kanton und Bezirke
 
