@@ -72,3 +72,12 @@ Affoltern = 101, Andelfingen = 102, Bülach = 103, Dielsdorf = 104, Hinwil = 105
 * AG, 1901
 * TG, 2011
 * ZH, 101 
+
+## Danke für die Inspiration
+* @rphl (https://github.com/rphl) 
+* @tzschies (https://github.com/tzschies)
+* and @kevinkub (https://gist.github.com/kevinkub/46caebfebc7e26be63403a7f0587f664)
+
+## Datenquellen
+* http://open.zh.ch/internet/justiz_inneres/ogd/de/daten.html
+* https://github.com/apfeuti/covid19-rest
